@@ -12,12 +12,12 @@ Generación de histogramas de precios.
 
 Cómo ejecutar:
 
-Clona el repositorio:
+Clonar el repositorio:
 
 git clone https://github.com/JoahanUlises/PreciosCarburantes.git
 
 
-Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ, etc.).
+Abri el proyecto en tu IDE favorito (Eclipse, IntelliJ, etc.).
 
 Ejecuta la clase Main.java.
 
