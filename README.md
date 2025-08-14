@@ -26,3 +26,7 @@ Tecnologías utilizadas:
 Java 8+
 
 Patrones de diseño: Observer
+
+Diagramas UML
+<img width="768" height="753" alt="uml_precios_v1" src="https://github.com/user-attachments/assets/117fb011-9a5b-4224-9bbc-f0e2ce674b84" />
+
