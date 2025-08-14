@@ -27,6 +27,8 @@ Java 8+
 
 Patrones de diseño: Observer
 
-Diagramas UML
-<img width="768" height="753" alt="uml_precios_v1" src="https://github.com/user-attachments/assets/117fb011-9a5b-4224-9bbc-f0e2ce674b84" />
+Diagramas UML:
 
+<img width="768" height="753" alt="uml_precios_v1" src="https://github.com/user-attachments/assets/26b469c0-8bbf-42ed-8366-010852ceb53f" />
+
+<img width="768" height="643" alt="uml_precios_v2" src="https://github.com/user-attachments/assets/d45b2cbf-b604-4f50-a336-66d4cadb71d7" />
